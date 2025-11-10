@@ -5,6 +5,7 @@ A lightweight feedback management system with REST API, admin dashboard, and CSV
 ## Quick Installation
 
 1. Upload `feedback-manager` folder to `/wp-content/plugins/`
+   > **Note:** If you downloaded the plugin from GitHub, the folder/zip might be named `wp-feedback-manager-plugin-main.zip`. Please **rename it to `feedback-manager`** before uploading.
 2. Activate via WordPress Admin → Plugins
 3. Database table auto-created on activation
 4. Use shortcode `[feedback_form]` on any page
